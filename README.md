@@ -7,6 +7,6 @@ Kernel_Density.ipynb - No really a gaussian process. Uses kernel density to esti
 
 Gauss_proc_GPy.ipynb - fits 1D and 2D data using the GPy library assuming gaussian distributed uncertainties.
 
-Gauss_proc_GPy-Poisson.ipynb - To be added
+Gauss_proc_GPy-Poisson.ipynb - fits 1D and 2D data using the GPy library assuming poisson distributed uncertainties.
 
 Gauss_proc_skilearn.ipynb - To be added
